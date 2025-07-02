@@ -16,6 +16,17 @@ I'm passionate about solving real-world problems through satellite imagery, envi
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 
+
+### 🔬 Featured Projects
+
+☁️ **[Cloud Segmentation using Multi‑View Learning](https://github.com/rushanmukherjee/Robust-Cloud-Segmentation-in-Satellite-Images-using-Multi-view-learning )**  
+  Explored and constructed a robust algorithm for cloud and cloud shadow segmentation using Gated Fusion and Unets. Master thesis project. 
+
+🌳 **[Sunderbans Deforestation Analysis](https://github.com/rushanmukherjee/Sunderbans-Deforestation-Analysis)**  
+  Satellite-based analysis of mangrove loss using Landsat data & unsupervised clustering. Bachelor thesis project.
+
+
+
 ### 🤝 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushan3103)  
 📧 [rushan.mukherjee@gmail.com](mailto:rushan.mukherjee@gmail.com)
