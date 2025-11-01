@@ -19,10 +19,13 @@ I'm passionate about solving real-world problems through satellite imagery, envi
 
 ### 🔬 Featured Projects
 
-☁️ **[Cloud Segmentation using Multi‑View Learning](https://github.com/rushanmukherjee/Robust-Cloud-Segmentation-in-Satellite-Images-using-Multi-view-learning )**  
-  Explored and constructed a robust algorithm for cloud and cloud shadow segmentation using Gated Fusion and Unets. Master thesis project. 
+🌧️☔🌊 **[Urban Flood Emulator](https://github.com/rushanmukherjee/Urban-flood-emulator)**
+ Atttention Based Deep Learning algorithm for emulating floods in urban regions. Tested on German cities. 
 
-🌳 **[Sunderbans Deforestation Analysis](https://github.com/rushanmukherjee/Sunderbans-Deforestation-Analysis)**  
+🛰️🌍☁️ **[Cloud Segmentation using Multi‑View Learning](https://github.com/rushanmukherjee/Robust-Cloud-Segmentation-in-Satellite-Images-using-Multi-view-learning )**  
+  Robust algorithm for cloud and cloud shadow segmentation using Gated Fusion and Unets. Master thesis project. 
+
+🌳🪓🪵 **[Sunderbans Deforestation Analysis](https://github.com/rushanmukherjee/Sunderbans-Deforestation-Analysis)**  
   Satellite-based analysis of mangrove loss using Landsat data & unsupervised clustering. Bachelor thesis project.
 
 
