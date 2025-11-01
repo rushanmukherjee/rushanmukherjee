@@ -19,8 +19,8 @@ I'm passionate about solving real-world problems through satellite imagery, envi
 
 ### 🔬 Featured Projects
 
-🌧️☔🌊 **[Urban Flood Emulator](https://github.com/rushanmukherjee/Urban-flood-emulator)**
- Atttention Based Deep Learning algorithm for emulating floods in urban regions. Tested on German cities. 
+🌧️☔🌊 **[Urban Flood Emulator](https://github.com/rushanmukherjee/Urban-flood-emulator)**  
+  Atttention Based Deep Learning algorithm for emulating floods in urban regions. Tested on German cities.   
 
 🛰️🌍☁️ **[Cloud Segmentation using Multi‑View Learning](https://github.com/rushanmukherjee/Robust-Cloud-Segmentation-in-Satellite-Images-using-Multi-view-learning )**  
   Robust algorithm for cloud and cloud shadow segmentation using Gated Fusion and Unets. Master thesis project. 
